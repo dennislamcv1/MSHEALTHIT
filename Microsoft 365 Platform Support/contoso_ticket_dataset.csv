@@ -1,0 +1,6 @@
+ticket_id,open_timestamp,reported_issue,current_state
+CNT-3301,8/17/2026 7:14,Contoso Portal login failure - password reset email not arriving,Open
+CNT-3302,8/17/2026 7:41,"Shared drive ""Contoso-Finance"" access denied after role change",In progress
+CNT-3303,8/17/2026 8:05,Contoso CRM records not syncing to reporting dashboard,Open
+CNT-3304,8/17/2026 8:22,Conference room AV system unresponsive - Building 2,Escalated
+CNT-3305,8/17/2026 8:47,Contoso email distribution list not delivering to all members,Open
