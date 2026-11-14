@@ -1,0 +1,13 @@
+PROFESSIONAL SUMMARY
+
+Tier 1 healthcare IT support candidate targeting a regional health system service desk. Brings production IT support experience in Microsoft Entra ID and the Microsoft 365 admin center, extended through simulated clinical tickets covering Epic Hyperspace client-side triage. Documents with role labels and minimum-necessary detail, and routes suspected PHI exposure through the approved incident path.
+
+EXPERIENCE
+
+IT Support Technician, Tier 1 | [Employer] | [Dates]
+Context: Service desk for Microsoft 365 users in a non-healthcare environment handling confidential data; healthcare work is simulated and listed separately.
+
+- Account-access tickets: verified caller identity under the approved procedure before resetting passwords in Microsoft Entra ID; confirmed sign-in with the user and recorded the verification step.
+- Licence and mailbox requests: assigned licences and checked mailbox status in the Microsoft 365 admin center within delegated permissions; escalated Conditional Access changes to the identity team.
+- Device compliance tickets: reviewed compliance status in Microsoft Intune and guided users through device sync; warm-transferred unresolved cases to endpoint engineering with completed checks.
+- Confidential-data tickets: wrote notes with minimum-necessary detail and no credentials or customer identifiers, the same discipline HIPAA documentation requires; reported suspected exposure through the security incident path.

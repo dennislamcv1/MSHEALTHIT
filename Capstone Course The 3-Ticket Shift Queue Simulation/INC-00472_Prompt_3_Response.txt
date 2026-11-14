@@ -1,0 +1,9 @@
+PROMPT 3 - Clinician Communication and Scope-Appropriate Reflection
+
+Communication delivered to the Attending Physician (11:00 AM, by phone)
+
+"Thank you for calling as soon as you noticed - that was the right thing to do, and I know this is stressful. I've confirmed the message is no longer visible in the channel, and the records the compliance team will need have been preserved. I've passed this to our Compliance Officer under ticket INC-00472, and that hand-off is in progress now; the Compliance Officer will contact you directly about next steps. In the meantime there is nothing further you need to do in the channel, and please don't re-post or forward the content or contact channel members about it. I'm not able to tell you how this will be assessed or what will happen next - that is the Compliance Officer's decision, not mine - but they have everything from our side."
+
+How I stayed within my Tier 1 boundary
+
+I limited the update to what I had done and could verify: containment was complete, the evidence was preserved, and the warm-transfer was in progress, with the Compliance Officer named as the person who would follow up with her directly. I gave no opinion on breach status, disciplinary outcomes, or the organization's response, and made no promises about outcomes I do not control, saying plainly that those decisions belong to the Compliance Officer. I still addressed her concern by acknowledging the stress, confirming that reporting quickly was the right step, and telling her exactly what would happen next and what she did and did not need to do, so she was not left guessing.

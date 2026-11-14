@@ -1,0 +1,28 @@
+PORTFOLIO BRIEF: Help Desk Resolution Portfolio
+Candidate: [Name]
+
+1. SITUATION FRAMING
+
+This portfolio contains three Tier 1 ticket case records produced in a simulated regional health system service desk environment. No production systems or real patient data were used. The records cover Microsoft identity support, Epic client-side triage, and a privacy concern, all handled within Tier 1 scope. Two tickets end in escalation.
+
+2. TICKET SUMMARIES
+
+Ticket 1, Identity access: A clinical staff member could not sign in to Microsoft 365. I applied the approved identity verification procedure, completed the scenario-authorized password reset in Microsoft Entra ID, and confirmed successful sign-in. Disposition: resolved, no patient information recorded.
+
+Ticket 2, EHR application: A provider reported an Epic Hyperspace connectivity symptom. I ran the approved client-side checks, documented each result, and found the cause sat outside Tier 1 scope. Disposition: warm-transferred to the application team with completed checks.
+
+Ticket 3, Privacy concern: A clinical staff member reported patient information visible in an unapproved location. I stopped further disclosure, logged an evidence reference instead of the content, and escalated through the approved incident path. Disposition: escalated, ownership confirmed.
+
+3. TECHNICAL DISCIPLINES DEMONSTRATED
+
+- Microsoft 365: identity verification and password reset in Microsoft Entra ID within Tier 1 scope.
+- EHR-adjacent: Epic Hyperspace client-side checks, with build-side issues routed to the application team.
+- HIPAA discipline: role labels, minimum-necessary notes, and no PHI in plain text.
+- Warm-transfer awareness: handoffs naming completed checks, the unresolved finding, and the requested action.
+
+4. CAREER READINESS SIGNALS
+
+- Verifies identity under the approved procedure before touching an account.
+- Records action, evidence, disposition, and verification result.
+- Replaces patient and provider identifiers with role labels.
+- Escalates with a specific request and confirms the receiving role has taken ownership.

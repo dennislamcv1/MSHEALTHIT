@@ -1,0 +1,24 @@
+PROMPT 3 - Delivery Communication and Structure-Not-Output Reflection
+
+Delivery communication to Dr. Patel
+
+Subject: INC-00531 - Copilot RCCOF framework and coaching notes
+
+Dr. Patel,
+
+Attached is the Copilot prompt framework you requested for your team's external research paper summaries (INC-00531). The file contains:
+
+- The RCCOF framework: Role, Context, Constraints, Output format, and Follow-up verification, with a scope statement limiting it to non-PHI, publicly available papers.
+- Coaching notes for your research staff and residents, with worked examples and common pitfalls.
+
+The three Follow-up verification checks (citation accuracy, cross-document content, clinical recommendations) are essential and should not be skipped. The framework reduces the risk of inconsistent or leaked content only when a person completes those checks before a summary is shared; it cannot guarantee that no leakage will occur.
+
+Questions about organizational AI-use policy are outside Tier 1 scope; please direct those to the Information Governance team.
+
+Thank you,
+Tier 1 Support Technician
+
+
+How I applied structure-not-output discipline
+
+I delivered a prompt structure with placeholders rather than Copilot output: I did not test the framework with any institutional draft content, and no internal document excerpts appear in the framework, the coaching notes, or the ticket resolution. The worked examples use invented, representative public paper types (a clinical outcomes study, a public health guideline, a conference proceeding) instead of real or internal material. I also kept the claim accurate, stating that the framework reduces risk when the human verification steps are followed, not that it prevents all leakage.
