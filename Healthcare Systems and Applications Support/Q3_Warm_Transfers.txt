@@ -1,0 +1,1 @@
+Two warm transfers were made on Ticket TH-2026-0907-01: WT-1 to Scheduling Administration (superseded visit link / meeting access FAIL) and WT-2 to the Epic Application / Analyst Team (missing Epic-side ambulatory chart-access assignment); no endpoint, identity, network or M365/Teams transfer was required.
